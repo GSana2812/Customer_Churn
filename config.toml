@@ -1,0 +1,6 @@
+[paths]
+URL = 'https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/chapter-03-churn-prediction/WA_Fn-UseC_-Telco-Customer-Churn.csv'
+FILENAME = 'customer_churn.csv'
+DIR = 'data'
+WORK_DIR = '/Users/gscerberus/Desktop/mlzoomcamp_course/mlzoomcamp_project'
+JSON_PATH = 'json/inference.json'
