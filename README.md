@@ -33,7 +33,7 @@ Customer churn, the loss of customers over time, poses a significant challenge f
 
 2. **Run the docker image:**
 
- docker run -p 8000:8000 churn
+ `docker run -p 8000:8000 churn`
 
 3. **Open Postman and choose New Request -> Select POST -> URL:  http://0.0.0.0:8000/predict_churn -> Body - raw - JSON
    The result obtained: (Example)
