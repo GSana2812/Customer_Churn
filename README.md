@@ -38,7 +38,6 @@ Customer churn, the loss of customers over time, poses a significant challenge f
 3. **Open Postman and choose New Request -> Select POST -> URL:  http://0.0.0.0:8000/predict_churn -> Body - raw - JSON
    The result obtained: (Example)
 
-   ```json
 {
     "Probability": 0.5341817046575446,
     "Churn": 1
